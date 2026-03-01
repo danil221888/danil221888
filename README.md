@@ -1,48 +1,61 @@
+<h1 align="center">👋 Привет, я Данил</h1>
+<h3 align="center">🐍 Python Backend Developer | 🤖 Telegram Bot Developer</h3>
 
-<!-- -->
-## Привет, меня зовут <!-- Имя -->!
-<!--
-<!--
-### 📝 Обо мне:
+---
 
-<!--история -->
-<!--
-- 🖥️ Изучаю веб-разработку на курсах Яндекс Практикум!
-- 📚 Обязательно вернусь в Школу 21 и попаду на основное обучение.
-- 🌟 Хочу освоить новую профессию и найти работу.
-- 📧 Как связаться со мной: filimonovalexey@gmail.com
+## 🚀 Обо мне
 
-### 🔗 Социальные сети:
+💻 Изучаю Backend разработку  
+🤖 Создаю Telegram-ботов на Python  
+🌐 Изучаю Web (HTML / CSS / Git / API)  
+📚 Постоянно прокачиваю навыки программирования  
+⚡ Люблю автоматизацию и реальные проекты  
 
-[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/filimonov-alexey)
-[![Telegram](https://image.flaticon.com/icons/png/512/2111/2111646.png)](https://t.me/filimonovalexey)
-[![YouTube](https://image.flaticon.com/icons/png/512/1384/1384060.png)](https://www.youtube.com/c/filimonovalexey)
-[![VK](https://image.flaticon.com/icons/png/512/145/145813.png)](https://vk.com/filimonovalexey)
+---
 
-### 💻 Технологии:
-![Python](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+## 🛠️ Мой стек
 
+### 💻 Языки
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![CSharp](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 
-### 🛠 Инструменты:
+---
 
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)
-![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat&logo=raspberry-pi)
+### ⚙️ Backend & Tools
+![Aiogram](https://img.shields.io/badge/-Aiogram-000?style=for-the-badge&logo=telegram)
+![Pyrogram](https://img.shields.io/badge/-Pyrogram-000?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code)
 
-### 📚 Пройденные курсы:
+---
 
-| Платформа       | Курсы                                                  | Дата             |
-| --------------- | ------------------------------------------------------ | ---------------- |
-| netology.ru     | Старт в программировании                               | 02/2022 - 03/2022 |
+## 📊 GitHub статистика
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+## 🔥 Сейчас изучаю
+
+- Backend архитектуру
+- REST API
+- Базы данных
+- Docker
+- Web development
+
+---
+
+## 📫 Связь со мной
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/ТВОЙ_ЮЗЕРНЕЙМ)
+
+---
+
+⭐ *Always learning. Always building.*
