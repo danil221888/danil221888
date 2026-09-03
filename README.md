@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhvdmoydHNkNmNpMHhsMHlwZXlkaHp0OHZybGcwZ2Uybm55Y3dweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Hacker GIF" height="300" width="600" />
 </div>
@@ -11,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  Обо мне:</h3>
 
 ###
 
@@ -20,7 +19,7 @@
 ###
 ***
 ###
-<h3 align="left">🤝 социальые сети:</h3>
+<h3 align="left">🤝 Социальые сети:</h3>
 
 ###
 ***
@@ -39,6 +38,13 @@
 <h3 align="left">💻 Пройденные курсы:</h3>
 
 ###
-=======
-Для запуска скрипта используйте команду `python main.py`.
->>>>>>> 76fbd09 (update)
+
+| Курсы |
+| :--- |
+| Разработка бэкенда на Python |
+| C# Software Engineering: SOLID, интерфейсы и Entity Framework Core |
+
+
+###
+---
+[![Codewars Badge](https://www.codewars.com/users/danil22188/badges/large)](https://www.codewars.com/users/danil22188)
