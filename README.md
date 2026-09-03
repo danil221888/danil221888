@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhvdmoydHNkNmNpMHhsMHlwZXlkaHp0OHZybGcwZ2Uybm55Y3dweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Hacker GIF" height="300" width="600" />
 </div>
@@ -38,3 +39,6 @@
 <h3 align="left">💻 Пройденные курсы:</h3>
 
 ###
+=======
+Для запуска скрипта используйте команду `python main.py`.
+>>>>>>> 76fbd09 (update)
