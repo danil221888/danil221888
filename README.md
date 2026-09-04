@@ -39,10 +39,10 @@
 
 ###
 
-| Курсы |
-| :--- |
-| Разработка бэкенда на Python |
-| C# Software Engineering: SOLID, интерфейсы и Entity Framework Core |
+| Курсы | Автор |
+| :--- | :--- |
+| Разработка бэкенда на Python | *Имя автора* |
+| C# Software Engineering: SOLID, интерфейсы и Entity Framework Core | *Имя автора* |
 
 
 ###
