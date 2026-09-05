@@ -26,11 +26,11 @@
 ###
 <h3 align="left">💻 Технологии:</h3>
 <p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <!-- Base Python через Shields.io -->
+  <img src="https://img.shields.io/badge/Base_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Base Python" height="40" />
   
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <!-- Git (оставил прозрачным логотипом для примера) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" />
 </p>
 
 ###
