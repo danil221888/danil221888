@@ -48,8 +48,8 @@
 
 | Курсы | Автор |
 | :--- | :--- |
-| Разработка бэкенда на Python | *Имя автора* |
-| C# Software Engineering: SOLID, интерфейсы и Entity Framework Core | *Имя автора* |
+| Python - Полный Курс по Python, Django, Data Science и ML | Bogdan Stashchuk |
+| Git - Курс по Git и GitHub | Bogdan Stashchuk |
 
 
 ###
